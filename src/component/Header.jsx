@@ -43,7 +43,7 @@ export const Header=()=>{
 <li className="menu_list"><NavLink to={"/"}>Home</NavLink></li>
 <li className="menu_list"><NavLink to={"/about"}>About</NavLink></li>
 <li className="menu_list"><NavLink to={"/faq"}>FAQ</NavLink></li>
-<li className="header_lists"><NavLink to={"/pets"}>Pets</NavLink></li>
+<li className="menu_list"><NavLink to={"/pets"}>Pets</NavLink></li>
 <li className="menu_list"><NavLink to={"/contact"}>Contact</NavLink></li>
 </ul>
 </div>
