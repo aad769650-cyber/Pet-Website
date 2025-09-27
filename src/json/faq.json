@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "question": "How do I submit my own pet care tip?",
+    "answer":
+      "You can submit your pet care tip by going to the 'Add Tip' section in the app. Fill in the details like the type of pet, care instructions, and upload a photo. Once reviewed, your tip will be published."
+  },
+  {
+    "id": 2,
+    "question": "Are the pet care tips free to access?",
+    "answer":
+      "Yes! All pet care tips in our app are free to browse, save, and share. Some premium features (like vet chat or ad-free experience) may require a subscription."
+  },
+  {
+    "id": 3,
+    "question": "Can I save tips to view offline?",
+    "answer":
+      "Absolutely. Just tap the Save icon on any tip, and it will be available in your 'Saved Tips' even without internet access."
+  },
+  {
+    "id": 4,
+    "question": "How do I filter tips by pet type or needs?",
+    "answer":
+      "Use the filter option on the home or search page to narrow tips by pet type (dog, cat, bird, etc.) or needs like grooming, training, nutrition, or health care."
+  },
+  {
+    "id": 5,
+    "question": "Is there a supply list feature?",
+    "answer":
+      "Yes! When viewing any tip, you can tap 'Add to Supply List' and it will auto-generate a list of recommended items or supplies you may need."
+  }
+]
